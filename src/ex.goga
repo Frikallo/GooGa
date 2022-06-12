@@ -1,0 +1,5 @@
+PRINT("Greetings universe!")
+
+FOR i = 0 TO 5 THEN
+	PRINT("This is a program!")
+END
